@@ -1,23 +1,19 @@
-# ⚡ EV Challenge 2026 — Gestão Inteligente de Eletropostos com Energia Solar
-
-> Solução sustentável para recarga de veículos elétricos integrada ao ecossistema GoodWe  
-> **FIAP × GoodWe | Sprint 1**
+#  EV Challenge 2026 — Gestão Inteligente de Eletropostos com Energia Solar
 
 ---
 
-## 👥 Equipe
+##  Equipe
 
-| Nome | RM | Turma |
-|------|----|-------|
-| _(nome do integrante)_ | RM000000 | _(turma)_ |
-| _(nome do integrante)_ | RM000000 | _(turma)_ |
-| _(nome do integrante)_ | RM000000 | _(turma)_ |
-
-> Substitua os dados acima com as informações reais da equipe.
+Nome	RM
+[ Ana Beatriz Berbel Marini ]	RM574176
+[ Gustavo Bonamico Piccoli ]	RM569984
+[ Marcelo Francisco Josafá Ribeiro Martins ]	RM573905
+[ Maria Eduarda Medeiros Lemos ]	RM574094
+[ Pietro Lorande da Silva ]	RM569125
 
 ---
 
-## 🔍 Problema e Justificativa
+##  Problema e Justificativa
 
 A rápida expansão dos veículos elétricos (VEs) impõe desafios significativos para as redes elétricas e para os gestores de infraestrutura de recarga. Os principais problemas identificados são:
 
@@ -30,7 +26,7 @@ Esses problemas comprometem tanto a viabilidade econômica dos eletropostos quan
 
 ---
 
-## 💡 Proposta de Solução
+##  Proposta de Solução
 
 A proposta consiste no desenvolvimento de uma plataforma de **gestão inteligente de eletropostos (Smart Charging)** integrada ao ecossistema GoodWe, capaz de:
 
@@ -40,18 +36,18 @@ A proposta consiste no desenvolvimento de uma plataforma de **gestão inteligent
 - Operar em modo off-grid durante quedas de energia, garantindo resiliência operacional.
 - Gerar relatórios de emissões de CO₂ equivalente (CO₂eq) por sessão de recarga.
 
-### 📊 Impactos Esperados
+###  Impactos Esperados
 
 | Dimensão | Impacto Esperado |
 |----------|-----------------|
-| 🌿 **Ambiental** | Redução das emissões de CO₂ associadas ao transporte e à geração de energia para recarga de VEs. |
-| 💰 **Econômico** | Diminuição dos custos operacionais com uso de energia solar e gestão de picos de demanda. |
-| 🤝 **Social** | Democratização do acesso a eletropostos com tarifas mais competitivas e infraestrutura confiável. |
-| 🔬 **Tecnológico** | Geração de dados para aprimoramento contínuo da plataforma e integração futura com smart grids. |
+|  **Ambiental** | Redução das emissões de CO₂ associadas ao transporte e à geração de energia para recarga de VEs. |
+|  **Econômico** | Diminuição dos custos operacionais com uso de energia solar e gestão de picos de demanda. |
+|  **Social** | Democratização do acesso a eletropostos com tarifas mais competitivas e infraestrutura confiável. |
+|  **Tecnológico** | Geração de dados para aprimoramento contínuo da plataforma e integração futura com smart grids. |
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ### Ecossistema GoodWe
 
@@ -72,7 +68,7 @@ A proposta consiste no desenvolvimento de uma plataforma de **gestão inteligent
 
 ---
 
-## 🌱 Energias Renováveis e Sustentabilidade como Base da Solução
+##  Energias Renováveis e Sustentabilidade como Base da Solução
 
 A solução é fundamentada nos **três pilares da sustentabilidade** e nas características das fontes renováveis integradas ao projeto:
 
@@ -86,9 +82,9 @@ A solução é fundamentada nos **três pilares da sustentabilidade** e nas cara
 
 | Fonte | Relevância para o Projeto |
 |-------|--------------------------|
-| ☀️ **Solar Fotovoltaica** | Principal fonte de geração local. Painéis captam radiação → inversor converte CC para CA → energia usada ou armazenada. |
-| 🌊 **Hidrelétrica (Matriz Nacional)** | Cerca de 60–65% da geração elétrica brasileira é hidrelétrica, reduzindo a pegada de carbono mesmo na recarga via rede. |
-| 🌬️ **Eólica** | Pode complementar eletropostos em regiões com boa incidência de ventos. |
+|  **Solar Fotovoltaica** | Principal fonte de geração local. Painéis captam radiação → inversor converte CC para CA → energia usada ou armazenada. |
+|  **Hidrelétrica (Matriz Nacional)** | Cerca de 60–65% da geração elétrica brasileira é hidrelétrica, reduzindo a pegada de carbono mesmo na recarga via rede. |
+|  **Eólica** | Pode complementar eletropostos em regiões com boa incidência de ventos. |
 
 ### Três Princípios que Justificam as Escolhas Tecnológicas
 
@@ -98,7 +94,7 @@ A solução é fundamentada nos **três pilares da sustentabilidade** e nas cara
 
 ---
 
-## 📖 Glossário
+##  Termos e Definissões
 
 | Termo | Definição |
 |-------|-----------|
