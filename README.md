@@ -6,9 +6,13 @@
 
 Nome	RM
 [ Ana Beatriz Berbel Marini ]	RM574176
+
 [ Gustavo Bonamico Piccoli ]	RM569984
+
 [ Marcelo Francisco Josafá Ribeiro Martins ]	RM573905
+
 [ Maria Eduarda Medeiros Lemos ]	RM574094
+
 [ Pietro Lorande da Silva ]	RM569125
 
 ---
