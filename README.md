@@ -4,16 +4,17 @@
 
 ##  Equipe
 
-Nome	RM
-[ Ana Beatriz Berbel Marini ]	RM574176
+Nome |	RM
 
-[ Gustavo Bonamico Piccoli ]	RM569984
+**[ Ana Beatriz Berbel Marini ]	RM574176**
 
-[ Marcelo Francisco Josafá Ribeiro Martins ]	RM573905
+**[ Gustavo Bonamico Piccoli ]	RM569984**
 
-[ Maria Eduarda Medeiros Lemos ]	RM574094
+**[ Marcelo Francisco Josafá Ribeiro Martins ]	RM573905**
 
-[ Pietro Lorande da Silva ]	RM569125
+**[ Maria Eduarda Medeiros Lemos ]	RM574094**
+
+**[ Pietro Lorande da Silva ]	RM569125**
 
 ---
 
